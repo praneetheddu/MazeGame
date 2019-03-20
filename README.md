@@ -1,4 +1,4 @@
-# MazeGame
+# Maze Game
 ## Introduction
 
 The Maze game is an interactive user controlled game that requires the player to complete a series of maze challenges within a 3-life span.
