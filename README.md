@@ -12,7 +12,7 @@ to control the tilt angle on the maze
 The enclosure was designed using laser cut wood. The 8.5" x 8.5" x 3.5" was designed with two servo openings and an opening for the ball to roll through. The box will also hold a curved surface on the bottom that allows the ball to roll over into the trap. Additionally, there will be a rod shaped structure sticking out that allows the maze interface to pivot.
 
 
-![Maze body](https://github.com/praneetheddu/MazeGame/blob/master/images/20190322_195229.jpg)
+![Maze body](https://github.com/praneetheddu/MazeGame/blob/master/images/20190411_164728.jpg)
   
 ![Maze body with pivot](https://github.com/praneetheddu/MazeGame/blob/master/images/20190322_200034.jpg)
 
