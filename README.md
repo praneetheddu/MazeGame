@@ -38,5 +38,5 @@ The custom two-layered PCB was printed using the Eagle schemtaic that hold the m
 The controller circuit was soldered on a vector board with an accelerometer, three pushbuttons, and a LED. The controller is handheld and is connected to the control box circuit through the I/O ports. The accelerometer is used to control the movement of the maze and the pushbuttons are used for selecting options on the LCD screen. 
 
 ![maze_controller](https://github.com/praneetheddu/MazeGame/blob/master/images/Controller.PNG)
-![controller](https://github.com/praneetheddu/MazeGame/blob/master/images/ContollerCutout.jpg)
+![controller](https://github.com/praneetheddu/MazeGame/blob/master/images/Webp.net-resizeimage.jpg)
 
