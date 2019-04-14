@@ -25,13 +25,17 @@ There is also a attachment to the opening for the ball to roll into.
 The servos allows the maze interface to tilt in either x or y direction. The pegs are strategically placed onto the servos such that each they tilt either horizontally or vertically. The 3D printed controller which has an accelerometer allows to output the tilt value to control the servos. 
 
 ## Schematics
-Maze Schematic and PCB:
+### Maze Schematic and PCB:
 
 The custom two-layered PCB was printed using the Eagle schemtaic that hold the mBed and some circuit components. The schematic was made such that the barell jack that is included in the schematic gave power to the microcontroller, LCD screen, accelerometer, LED, pushbuttons and other circuit components. The PCB has a ground plane on both sides for theremal safety and efficient wire connections. 
 
-![mbed Schematic](https://github.com/praneetheddu/MazeGame/blob/master/images/Mbed.PNG)
+![mbed Schematic](https://github.com/praneetheddu/MazeGame/blob/master/images/MbedSchematic.PNG)
 
 ![maze PCB](https://github.com/praneetheddu/MazeGame/blob/master/images/20190411_165149.jpg)
 
-Controller Schematic:
+### Controller Schematic:
+
+The controller circuit was soldered on a vector board with an accelerometer, three pushbuttons, and a LED. The controller is handheld and is connected to the control box circuit through the I/O ports. The accelerometer is used to control the movement of the maze and the pushbuttons are used for selecting options on the LCD screen. 
+
+![maze_controller](https://github.com/praneetheddu/MazeGame/blob/master/images/Controller.PNG)
 
