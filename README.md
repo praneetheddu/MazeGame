@@ -27,7 +27,8 @@ The servos allows the maze interface to tilt in either x or y direction. The peg
 ## Schematics
 ### Maze Schematic and PCB:
 
-The custom two-layered PCB was printed using the Eagle schemtaic that hold the mBed and some circuit components. The schematic was made such that the barell jack that is included in the schematic gave power to the microcontroller, LCD screen, accelerometer, LED, pushbuttons and other circuit components. The PCB has a ground plane on both sides for theremal safety and efficient wire connections. 
+The custom two-layered PCB was printed using the Eagle schemtaic that hold the mBed and some circuit components. The schematic was made such that the barell jack that is included in the schematic gave power to the microcontroller, LCD screen, accelerometer, LED, pushbuttons and other circuit components. The PCB has a ground plane on both sides for theremal safety and efficient wire connections.
+
 
 ![mbed Schematic](https://github.com/praneetheddu/MazeGame/blob/master/images/MbedSchematic.PNG)
 
@@ -40,3 +41,5 @@ The controller circuit was soldered on a vector board with an accelerometer, thr
 ![maze_controller](https://github.com/praneetheddu/MazeGame/blob/master/images/Controller.PNG)
 ![controller](https://github.com/praneetheddu/MazeGame/blob/master/images/Webp.net-resizeimage.jpg)
 
+
+## Demo
